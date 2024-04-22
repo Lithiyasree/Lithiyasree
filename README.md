@@ -7,7 +7,7 @@
 
 - 🔭 Currently, I'm working on building an exciting **e-commerce website**
 
-- 🌱 I’m currently learning **JavaScrip, React**
+- 🌱 I’m currently learning **JavaScript, React**
 
 - 📫 How to reach me **r.lithiyasree12@gmail.com**
 
