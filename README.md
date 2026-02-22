@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lithiyasree R</h1>
-<h3 align="center">Passionate Full Stack Developer | Java & Python Enthusiast | Aspiring Data Scientist</h3>
+<h3 align="center">Passionate Web Developer | Java & Python Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lithiyasree&label=Profile%20Views&color=0e75b6&style=flat" alt="lithiyasree" />
@@ -10,33 +10,11 @@
 ## 🚀 About Me
 
 - 🎓 B.E. Computer Science and Engineering Student  
-- 💻 Passionate about **Full Stack Development & Data Science**
+- 💻 Passionate about **Web Development**
 - 🔭 Currently building an **E-commerce Website**
-- 🌱 Learning **JavaScript, React & Advanced Machine Learning**
+- 🌱 Learning **JavaScript & React**
 - 🧠 Strong in **Problem Solving & Data Structures**
 - 🏆 50+ Days LeetCode Streak | Multiple Coding Badges
-- 📫 Reach me at: **r.lithiyasree12@gmail.com**
-
----
-
-## 💡 Projects
-
-### 🛒 E-Commerce Website
-- Responsive frontend using HTML, CSS, JavaScript
-- Backend integration with database
-- User-friendly UI & optimized design
-
-### 📚 Library Management System (Java + JDBC + MySQL)
-- Book issue/return management
-- Transaction history & fine calculation
-- Email notifications
-- Admin & user management system
-
-### 🧬 Fingerprint-Based Blood Group Detection
-- Built using CNN (ResNet Architecture)
-- Image preprocessing & augmentation
-- Achieved high training accuracy
-- Grad-CAM visualization
 
 ---
 
@@ -74,7 +52,7 @@
 
 ## ✨ Career Goal
 
-To become a highly skilled **Data Scientist & Full Stack Developer**, building intelligent systems that solve real-world problems.
+To become a highly skilled **Web Developer**, building intelligent systems that solve real-world problems.
 
 ---
 
