@@ -1,24 +1,81 @@
 <h1 align="center">Hi 👋, I'm Lithiyasree R</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Passionate Full Stack Developer | Java & Python Enthusiast | Aspiring Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lithiyasree&label=Profile%20views&color=0e75b6&style=flat" alt="lithiyasree" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lithiyasree" alt="lithiyasree" /></a> </p>
-
-- 🔭 Currently, I'm working on building an exciting **e-commerce website**
-
-- 🌱 I’m currently learning **JavaScript, React**
-
-- 📫 How to reach me **r.lithiyasree12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lithiyasree r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lithiyasree r" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lithiyasree" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lithiyasree" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lithiyasree r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lithiyasree r" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lithiyasree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lithiyasree" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lithiyasree&label=Profile%20Views&color=0e75b6&style=flat" alt="lithiyasree" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+
+- 🎓 B.E. Computer Science and Engineering Student  
+- 💻 Passionate about **Full Stack Development & Data Science**
+- 🔭 Currently building an **E-commerce Website**
+- 🌱 Learning **JavaScript, React & Advanced Machine Learning**
+- 🧠 Strong in **Problem Solving & Data Structures**
+- 🏆 50+ Days LeetCode Streak | Multiple Coding Badges
+- 📫 Reach me at: **r.lithiyasree12@gmail.com**
+
+---
+
+## 💡 Projects
+
+### 🛒 E-Commerce Website
+- Responsive frontend using HTML, CSS, JavaScript
+- Backend integration with database
+- User-friendly UI & optimized design
+
+### 📚 Library Management System (Java + JDBC + MySQL)
+- Book issue/return management
+- Transaction history & fine calculation
+- Email notifications
+- Admin & user management system
+
+### 🧬 Fingerprint-Based Blood Group Detection
+- Built using CNN (ResNet Architecture)
+- Image preprocessing & augmentation
+- Achieved high training accuracy
+- Grad-CAM visualization
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/lithiyasree" target="blank">LeetCode</a> |
+<a href="https://www.codechef.com/users/lithiyasree" target="blank">CodeChef</a> |
+<a href="https://www.hackerrank.com/lithiyasree" target="blank">HackerRank</a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/lithiyasree-r" target="blank">LinkedIn</a>
+</p>
+
+---
+
+## ✨ Career Goal
+
+To become a highly skilled **Data Scientist & Full Stack Developer**, building intelligent systems that solve real-world problems.
+
+---
+
+⭐️ *"Code. Learn. Build. Repeat."*
