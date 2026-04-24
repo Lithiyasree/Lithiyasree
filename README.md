@@ -49,14 +49,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lithiyasree&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lithiyasree&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🧠 Coding Profiles
