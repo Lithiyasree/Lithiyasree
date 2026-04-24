@@ -1,59 +1,96 @@
 <h1 align="center">Hi 👋, I'm Lithiyasree R</h1>
-<h3 align="center">Passionate Web Developer | Java & Python Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Full Stack Developer | Java • Python • React</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lithiyasree&label=Profile%20Views&color=0e75b6&style=flat" alt="lithiyasree" />
+  <img src="https://komarev.com/ghpvc/?username=lithiyasree&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Passionate+Web+Developer;Problem+Solver;Java+%7C+Python+Enthusiast;Building+Real+World+Projects;Future+Software+Engineer"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.E. Computer Science and Engineering Student  
-- 💻 Passionate about **Web Development**
-- 🔭 Currently building an **E-commerce Website**
-- 🌱 Learning **JavaScript & React**
-- 🧠 Strong in **Problem Solving & Data Structures**
+✨ I'm a **B.E. Computer Science Engineering student** passionate about building real-world applications.
+
+- 💻 Passionate about Web Development
+- 🌱 Learning **React, JavaScript & Backend Integration**
+- 💡 Strong foundation in **Data Structures & Algorithms**
+- 🧠 Solved **100+ problems** across coding platforms
 - 🏆 50+ Days LeetCode Streak | Multiple Coding Badges
-
+- 🎯 Goal: Become a **Professional Full Stack Developer**
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lithiyasree&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lithiyasree&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 Coding Profiles
+## 🧠 Coding Profiles
 
-<p align="left">
-<a href="https://leetcode.com/lithiyasree" target="blank">LeetCode</a> |
-<a href="https://www.codechef.com/users/lithiyasree" target="blank">CodeChef</a> |
-<a href="https://www.hackerrank.com/lithiyasree" target="blank">HackerRank</a>
+<p align="center">
+  <a href="https://leetcode.com/lithiyasree">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoWidth=30&labelColor=black"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.skillrack.com/profile/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Skillrack-blue?style=for-the-badge&logo=codeforces&logoWidth=30&labelColor=black"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/lithiyasree">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoWidth=30&labelColor=black"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/lithiyasree">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoWidth=30&labelColor=black"/>
+  </a>
 </p>
-
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/lithiyasree-r" target="blank">LinkedIn</a>
+<p align="center">
+  <a href="https://linkedin.com/in/lithiyasree-r">
+    <img src="https://img.shields.io/badge/LinkedIn-Lithiyasree-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-## ✨ Career Goal
-
-To become a highly skilled **Web Developer**, building intelligent systems that solve real-world problems.
-
----
-
-⭐️ *"Code. Learn. Build. Repeat."*
+⭐️ From [Lithiyasree](https://github.com/lithiyasree)
