@@ -57,7 +57,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://www.skillrack.com/profile/YOUR_USERNAME">
+  <a href="https://www.skillrack.com/faces/resume.xhtml?id=407922&key=2ca2b977cc295c770d6eb9e826d181eebc61acdb">
     <img src="https://img.shields.io/badge/Skillrack-blue?style=for-the-badge&logo=codeforces&logoWidth=30&labelColor=black"/>
   </a>
   &nbsp;&nbsp;
@@ -67,7 +67,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/lithiyasree">
+  <a href="https://www.hackerrank.com/profile/r_lithiyasree12">
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoWidth=30&labelColor=black"/>
   </a>
 </p>
