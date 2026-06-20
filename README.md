@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lithiyasree R</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | Java • Python • React</h3>
+<h3 align="center">🚀 Aspiring Full Stack Developer | Python • Java • React</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lithiyasree&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views"/>
